@@ -7,3 +7,5 @@
 
 -- To execute the project run:
    yarn start
+   
+-- In order to run the tests: yarn jest
